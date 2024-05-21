@@ -34,9 +34,10 @@ header{
     justify-content: space-between;
     align-items: center;
     background-color: white;
-    padding: 10px 8%;
+    padding: 7px 8%;
 }
 header .logo{
+    margin-top: 5px;
     width: 90px;
     height: 90px;
 }
@@ -46,7 +47,7 @@ header .logo{
 .navbar a{
     color: black;
     font-size: 16px;
-    margin: 20px;
+    margin: 15px;
     display: inline-block;
 }
 .navbar a:hover{
